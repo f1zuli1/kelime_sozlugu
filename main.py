@@ -10,7 +10,10 @@ modern_sozluk = {
                 "kakofoni": "Uyduruk, hoş olmayan seslerin karışımı",
                 "çılgın": "Aşırı heyecanlı, deli, akıl almaz",
                 "toksik": "kendi başarısızlıklarını ve kendi mutsuzluklarını karşısındaki kişiyi ayna olarak görüp yansıtan kişidir",
-                "AGGRO": "agresiflesmek",
+                "aggro": "agresiflesmek",
+                "boomer": "yasli eski jenarasyon",
+                "lol": "komik bir seye verilen cevap",
+                "cringe": "garip ya da utandirici bir sey",
 }
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
 if word in modern_sozluk.keys():
