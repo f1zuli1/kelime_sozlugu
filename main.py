@@ -7,6 +7,14 @@ modern_sozluk = {
                 "TOKSIK": "kendi başarısızlıklarını ve kendi mutsuzluklarını karşısındaki kişiyi ayna olarak görüp yansıtan kişidir",
                 "CILGIN": "aşırı heyecanlı, deli, akıl almaz",
                 "KOKOFONI": "Uyduruk, hoş olmayan seslerin karışımı",
+                "SUS": "Şüpheli veya güvenilmez bir şeyi ifade eder, özellikle birinin davranışlarını.",
+                "VIBE": "Bir kişinin ya da ortamın verdiği genel ruh hali ya da his.",
+                "SELFIE": "Kişinin kendi fotoğrafını çekmesi.",
+                "MEME": "Sosyal medyada hızla yayılan ve genellikle eğlenceli veya mizahi içerikler.",
+                "FLEEK": "Her şeyin mükemmel göründüğü veya yapıldığı bir durumu tanımlar.",
+                "LIT": "Heyecan verici, harika veya çok eğlenceli bir durumu ifade eder.",
+                "MOOD: "Bir ruh hali veya duygusal durum.",
+                "SQUAD": "Yakın arkadaşlar veya bir grup insanı ifade eder.",
                 "kakofoni": "Uyduruk, hoş olmayan seslerin karışımı",
                 "çılgın": "Aşırı heyecanlı, deli, akıl almaz",
                 "toksik": "kendi başarısızlıklarını ve kendi mutsuzluklarını karşısındaki kişiyi ayna olarak görüp yansıtan kişidir",
@@ -14,6 +22,13 @@ modern_sozluk = {
                 "boomer": "yasli eski jenarasyon",
                 "lol": "komik bir seye verilen cevap",
                 "cringe": "garip ya da utandirici bir sey",
+                "sus": "Şüpheli veya güvenilmez bir şeyi ifade eder, özellikle birinin davranışlarını.",
+                "vibe": "Bir kişinin ya da ortamın verdiği genel ruh hali ya da his.",
+                "selfie": "Kişinin kendi fotoğrafını çekmesi.",
+                "meme": "Sosyal medyada hızla yayılan ve genellikle eğlenceli veya mizahi içerikler.",
+                "lit": "Heyecan verici, harika veya çok eğlenceli bir durumu ifade eder.",
+                "mood": "Bir ruh hali veya duygusal durum.",
+                "squad": "Yakın arkadaşlar veya bir grup insanı ifade eder."
 }
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
 if word in modern_sozluk.keys():
